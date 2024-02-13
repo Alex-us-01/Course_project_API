@@ -53,6 +53,3 @@ def start():
 if __name__ == '__main__':
     start()
 
-# vk1.a.d2G8FmCFpoVJKBqBJ5VET-vpjrlhZs_eS15n5EPm_ZKN-FoLrN2T_wpyYSjD6i1GK1DhpM86bojOhtAESn0_EuPlpC_Rfct7ZIlpkEE1qDDzvZRSXjMeyQHrcpRdG4D58lPjJvoPxOTC0gwjc08INgGsKSyFzb-IDfoOgH_8q_IZvN1hqlzguUvuDSCDZQ0urc7T3clY_HoVKR9-t4Kysg
-
-# y0_AgAAAAB0HDuSAADLWwAAAAD6q-jBAABS8cQNWKlLloCbxyyR0_ayy1a3tw
